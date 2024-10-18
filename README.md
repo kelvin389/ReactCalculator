@@ -4,6 +4,7 @@ Tech:
 - Node.js
 - React
 - Vite
+- Typescript
 
 commands to run:
 ```
