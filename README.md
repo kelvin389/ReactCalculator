@@ -1,10 +1,9 @@
-A "hello world" react application
+A "hello world" react application using Typescript
 
 Tech:
 - Node.js
 - React
 - Vite
-- Typescript
 
 commands to run:
 ```
